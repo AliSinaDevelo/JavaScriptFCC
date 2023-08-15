@@ -1,4 +1,4 @@
-JavaScript Algorithms and Data Structures Projects
+##JavaScript Algorithms and Data Structures Projects
 
 This repository contains my solutions to the JavaScript Algorithms and Data Structures projects from freeCodeCamp.
 About
@@ -7,13 +7,13 @@ The JavaScript Algorithms and Data Structures certification is a series of chall
 
 In this repository, you will find my solutions to the five final projects in the certification:
 
-    Palindrome Checker
-    Roman Numeral Converter
-    Caesars Cipher
-    Telephone Number Validator
-    Cash Register
+Palindrome Checker
+Roman Numeral Converter
+Caesars Cipher
+Telephone Number Validator
+Cash Register
 
-Usage
+##Usage
 
 You can view my solutions to each project by navigating to the corresponding folder in this repository. Each folder contains a separate JavaScript file with my solution, as well as a README file with a description of the project and the requirements.
 
@@ -22,9 +22,10 @@ Installation
 
 To run these projects locally, you will need to have Node.js installed on your computer. You can download and install Node.js from the official website: https://nodejs.org/en/
 
-Credits
+##Credits
 
 These projects were created by freeCodeCamp as part of the JavaScript Algorithms and Data Structures certification. You can learn more about freeCodeCamp and their curriculum on their website: https://www.freecodecamp.org/
-License
+
+##License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
