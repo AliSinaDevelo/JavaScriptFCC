@@ -7,11 +7,11 @@ The JavaScript Algorithms and Data Structures certification is a series of chall
 
 In this repository, you will find my solutions to the five final projects in the certification:
 
-Palindrome Checker
-Roman Numeral Converter
-Caesars Cipher
-Telephone Number Validator
-Cash Register
+ Palindrome Checker/
+ Roman Numeral Converter/
+ Caesars Cipher/
+ Telephone Number Validator/
+ Cash Register
 
 # Usage
 
